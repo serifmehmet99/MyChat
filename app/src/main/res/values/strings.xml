@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dede</string>
+    <string name="create_new_account">YENİ HESAP OLUŞTUR</string>
+    <string name="i_account">HESABIM VAR</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="email">Email</string>
+    <string name="password">Parola</string>
+    <string name="lower_create_new_account">Yeni Hesap Oluştur</string>
+    <string name="create_account">HESAP OLUŞTUR</string>
+    <string name="login_with_your_account">Hesabınızla Giriş Yapınız</string>
+    <string name="login">GİRİŞ YAP</string>
+</resources>
